@@ -1,0 +1,10 @@
+[
+ {
+  "mazo": "mazo 1",
+  "cantidad": "4",
+  "numero": "1A",
+  "titulo": "PERSONAJE HACE",
+  "descripcion": "Un personaje cualquiera realiza una acción que modifica la situación o cambia lugar o tiempo."
+ },
+ "La tia Beba nunca habia manejado una ferrari ... al menos no una tan potente."
+]
