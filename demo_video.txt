@@ -1,0 +1,26 @@
+[
+ {
+  "mazo": "mazo 1",
+  "cantidad": "4",
+  "numero": "1C",
+  "titulo": "PERO",
+  "descripcion": "Un personaje o situación cualquiera rompe, interrumpe o cambia el sentido en que se desarrolla la historia."
+ },
+ "Ese dia no era como otros, no pudo abrir la puerta por la nieve.",
+ {
+  "mazo": "mazo 1",
+  "cantidad": "4",
+  "numero": "1A",
+  "titulo": "PERSONAJE HACE",
+  "descripcion": "Un personaje cualquiera realiza una acción que modifica la situación o cambia lugar o tiempo."
+ },
+ "Tampoco le resultaban familiares los vehiculos ni la ropa de las personas que veia en la calle.",
+ {
+  "mazo": "mazo 2",
+  "cantidad": "2",
+  "numero": "2A",
+  "titulo": "SENSACIÓN",
+  "descripcion": "Algo que percibimos a nuestro alrededor con alguno/s de los cinco sentidos."
+ },
+ "Lo mas insportable era ese ruido. No era fuerte, tampoco chillon, pero si indescriptiblemente insoportable."
+]
