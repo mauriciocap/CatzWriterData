@@ -22,5 +22,13 @@
   "titulo": "SENSACIÓN",
   "descripcion": "Algo que percibimos a nuestro alrededor con alguno/s de los cinco sentidos."
  },
- "Lo mas insportable era ese ruido. No era fuerte, tampoco chillon, pero si indescriptiblemente insoportable."
+ "Lo mas insportable era ese ruido. No era fuerte, tampoco chillon, pero si indescriptiblemente insoportable.",
+ {
+  "mazo": "mazo 4",
+  "cantidad": "1",
+  "numero": "4A",
+  "titulo": "PARODIA O CITA",
+  "descripcion": "Reproducimos una manera de hablar, un género o una escena de una historia conocida."
+ },
+ "\"el tiempo es dinero\" peso ... pero mas bien porque no tenia ninguno de ambos."
 ]
