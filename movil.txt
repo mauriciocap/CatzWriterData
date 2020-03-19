@@ -1,0 +1,18 @@
+[
+ {
+  "mazo": "mazo 1",
+  "cantidad": "4",
+  "numero": "1B",
+  "titulo": "ENTONCES",
+  "descripcion": "Un personaje cualquiera realiza una acción que continúa el sentido en que se desarrolla la historia."
+ },
+ "prueba movil",
+ {
+  "mazo": "mazo 2",
+  "cantidad": "2",
+  "numero": "2E",
+  "titulo": "CONTEXTO",
+  "descripcion": "Sugerimos en qué lugar y momento sucede la acción, sin necesidad de decirlo explícitamente."
+ },
+ "otro texto"
+]
